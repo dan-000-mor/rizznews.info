@@ -1,0 +1,25 @@
+﻿
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Rogerbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: cognitiveSEO
+Disallow: /
+
+User-agent: Oncrawl
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
