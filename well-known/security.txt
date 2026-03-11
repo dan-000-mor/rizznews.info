@@ -1,0 +1,2 @@
+Contact: mailto:admin@yourdomain.com
+Preferred-Languages: ru, en
