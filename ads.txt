@@ -1,0 +1,2 @@
+# Ads.txt file for this domain
+# We do not serve any ads on this site.
